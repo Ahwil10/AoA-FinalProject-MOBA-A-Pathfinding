@@ -1,0 +1,10 @@
+dota_show_obsject_obstructions  #collitions size of things (paths you can move through
+dota_show_nav_obstructions #shows map obstrcutions (things that block you from moving) (cliffs, Roshan pit)
+cl_dota_gridnav_show #same thing but grids (show places that you can/can't place a ward)
+dota_show_heightmap grid to uderstand elevations
+hud_toggle_visibility
+dota_all_vision
+dota_camera_distance 1400 (1134)
+dota_camera_disable_yaw 0
+dota_camera_yaw_rotate_hold_time 0
+dota_unit_draw_paths true
